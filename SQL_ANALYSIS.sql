@@ -1,3 +1,8 @@
+/* © 2024 SAURABH DWIVEDI. All rights reserved. 
+https://github.com/saurabhpandit0002/
+Pizza-Sales-Analysis
+*/
+
 SELECT * FROM pizza_sales;
 
 /*------------KPI's------------*/
