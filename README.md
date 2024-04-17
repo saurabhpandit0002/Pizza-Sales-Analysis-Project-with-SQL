@@ -1,5 +1,8 @@
 # Pizza-Sales-Analysis-Project-with-SQL
-![Capture](https://github.com/saurabhpandit0002/Pizza-Sales-Analysis-Project-with-SQL/assets/137883171/15244be8-acc6-4788-99f5-5202a2f67f59)
+
+![Capture](https://github.com/saurabhpandit0002/Pizza-Sales-Analysis-Project-with-SQL/assets/137883171/9dc23954-aaf4-480b-86b8-9f3352251b95)
+
+
 This repository contains SQL scripts and documentation for a comprehensive analysis of pizza sales data. By leveraging SQL queries, we delve into a dataset encompassing orders, customers, and pizzas to extract valuable insights for a fictional pizza company.
 # Key Features:
 SQL Queries: Explore a collection of SQL queries used to analyze various aspects of pizza sales, including top-selling pizzas, sales trends over time, average order value, and customer segmentation.
